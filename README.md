@@ -107,7 +107,10 @@ cd quickdrop
 4. Run Development ServerBashnpm run dev
 The application will be accessible at: http://localhost:30004. Build for ProductionTo create an optimized production build with complete PWA service workers:Bashnpm run build
 To preview the production build locally:Bashnpm run preview
-⌨️ Shortcuts & GesturesActionShortcut / GestureDrop single-line itemPress Enter in the input fieldDrop multiline notePress Ctrl + Enter (or Cmd + Enter)Paste from ClipboardTap the Paste button in the input bar or bottom dockCopy Clean IBANTap the Copy IBAN button on any IBAN cardPrevent ExpirationTap the Pin icon (turns amber)Undo DeletionClick Undo on the deletion toast notification📄 LicenseThis project is licensed under the MIT License — feel free to use, modify, and distribute.
+
+⌨️ Shortcuts & GesturesActionShortcut / GestureDrop single-line itemPress Enter in the input fieldDrop multiline notePress Ctrl + Enter (or Cmd + Enter)Paste from ClipboardTap the Paste button in the input bar or bottom dockCopy Clean IBANTap the Copy IBAN button on any IBAN cardPrevent ExpirationTap the Pin icon (turns amber)Undo DeletionClick Undo on the deletion toast notification
+
+📄 LicenseThis project is licensed under the MIT License — feel free to use, modify, and distribute.
 
 
 <div align="center">
