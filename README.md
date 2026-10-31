@@ -94,6 +94,9 @@ Many of us have formed the habit of sending messages to our own chat in WhatsApp
 ├── package.json                  # Dependencies & scripts
 ├── tsconfig.json                 # TypeScript compiler configuration
 └── vite.config.ts                # Vite configuration with PWA plugin
+```
+
+
 🚀 Getting StartedPrerequisitesEnsure you have Node.js (v18.0.0 or higher) installed on your system.1. Clone the RepositoryBashgit clone [https://github.com/willbyers1/reminder.app.git](https://github.com/willbyers1/reminder-app.git)
 cd quickdrop
 2. Install DependenciesBashnpm install
@@ -106,6 +109,6 @@ To preview the production build locally:Bashnpm run preview
 <div align="center">
 
 **Created by Mert Batu Bülbül**
-💻 Computer Engineering Freshman (2nd Year Student) 💻
+💻 Computer Engineering Student (2nd Year Student) 💻
 
 </div>
