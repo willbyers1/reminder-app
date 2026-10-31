@@ -97,10 +97,14 @@ Many of us have formed the habit of sending messages to our own chat in WhatsApp
 ```
 
 
-🚀 Getting StartedPrerequisitesEnsure you have Node.js (v18.0.0 or higher) installed on your system.1. Clone the RepositoryBashgit clone [https://github.com/willbyers1/reminder.app.git](https://github.com/willbyers1/reminder-app.git)
+🚀 Getting StartedPrerequisitesEnsure you have Node.js (v18.0.0 or higher) installed on your system.
+
+1. Clone the RepositoryBashgit clone [https://github.com/willbyers1/reminder.app.git](https://github.com/willbyers1/reminder-app.git)
 cd quickdrop
-2. Install DependenciesBashnpm install
-3. Run Development ServerBashnpm run dev
+
+3. Install DependenciesBashnpm install
+
+4. Run Development ServerBashnpm run dev
 The application will be accessible at: http://localhost:30004. Build for ProductionTo create an optimized production build with complete PWA service workers:Bashnpm run build
 To preview the production build locally:Bashnpm run preview
 ⌨️ Shortcuts & GesturesActionShortcut / GestureDrop single-line itemPress Enter in the input fieldDrop multiline notePress Ctrl + Enter (or Cmd + Enter)Paste from ClipboardTap the Paste button in the input bar or bottom dockCopy Clean IBANTap the Copy IBAN button on any IBAN cardPrevent ExpirationTap the Pin icon (turns amber)Undo DeletionClick Undo on the deletion toast notification📄 LicenseThis project is licensed under the MIT License — feel free to use, modify, and distribute.
